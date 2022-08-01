@@ -57,7 +57,7 @@
     "lodash": "^4.17.21",
     "memoizee": "^0.4.15",
     "micromatch": "^4.0.4",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.2.10",
     "object-hash": "^2.2.0",
     "open": "^7.4.2",
     "path2": "^0.1.0",
